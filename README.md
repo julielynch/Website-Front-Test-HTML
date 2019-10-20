@@ -14,7 +14,7 @@ Health++ 2019 Website Code Test 1
     <section id="overlay">
       <hr>
       <form action="submission.html" method="POST">
-				<h1>Create a burger!</h1>
+				<h1>Hello!</h1>
         <section class="protein">
           <label for="patty">What type of protein would you like?</label>
     			<input type="text" name="patty" id="patty">
