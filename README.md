@@ -16,5 +16,8 @@ Health++ 2019 Website Code Test 1-->
       <form action="submission.html" method="POST">
 				<h1>Hello!</h1>
 	      <p><a href="page2.html">Goals</a><br />
+		       <p><a href="page3.html">Daily Check-In</a><br />
+			        <p><a href="page4.html">Send a Message</a><br />
+					 <p><a href="page5.html">Reminders</a><br />
         </section>
         <hr>
