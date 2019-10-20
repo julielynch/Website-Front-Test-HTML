@@ -9,7 +9,8 @@ Health++ 2019 Website Code Test 1-->
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Source Sans Pro" rel="stylesheet">
      </head>
-  <body>
+  <body style="background-color:orange">
+	</body>
     <section id="overlay">
       <hr>
       <form action="submission.html" method="POST">
