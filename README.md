@@ -1,5 +1,5 @@
-# Website-Front-Test-HTML
-Health++ 2019 Website Code Test 1
+<!--# Website-Front-Test-HTML
+Health++ 2019 Website Code Test 1-->
 
 <!--This is for me to practice HTML Stuff-->
 
@@ -8,15 +8,12 @@ Health++ 2019 Website Code Test 1
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Source Sans Pro" rel="stylesheet">
-    <title>Forms Review</title>
-  </head>
+     </head>
   <body>
     <section id="overlay">
       <hr>
       <form action="submission.html" method="POST">
 				<h1>Hello!</h1>
-        <section class="protein">
-          <label for="patty">What type of protein would you like?</label>
-    			<input type="text" name="patty" id="patty">
+	      <p><a href="page2.html">Goals</a><br />
         </section>
         <hr>
